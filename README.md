@@ -14,7 +14,7 @@ of Human-Generated Captions for Science Diagrams"](https://link.springer.com/cha
 
 | Column Name | Description |
 | ---- | ---- |
-| 0 | image id in AI2D |
+| 0 | image id in [AI2D](https://prior.allenai.org/projects/diagram-understanding) |
 | 1--8 | caption sentences |
 
 - See [our paper](#citation) for details.
